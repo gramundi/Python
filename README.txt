@@ -1,0 +1,1 @@
+This REPO it ia about Python and AI
